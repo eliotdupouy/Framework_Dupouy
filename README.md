@@ -18,40 +18,52 @@ You can have a maximum of 12 columns in a row.
 
 Built into this framework, a lot of helper classes. Here's the list :
 
-// FLOAT //
+**// FLOAT //**
 
 .left to make a float left
+
 .right to make a float right
 
-// TEXT-ALIGN //
+**// TEXT-ALIGN //**
 
 .text-left to make a text-align left
+
 .text-right to make a text-align right
+
 .text-center to make a text-align center
+
 .text-justify to make a text-align justify
 
-// JUSTIFY-CONTENT //
+**// JUSTIFY-CONTENT //**
 
 .justify-center to justify-content to the center
+
 .justify-between to justify-content in between
 
-// ALIGN-SELF //
+**// ALIGN-SELF //**
 
 .align-top to align-self to the top
+
 .align-bottom to align-self to the end
 
-// MARGIN & PADDING up to 999px - $i (your value) from 0 through 999 //
+**// MARGIN & PADDING up to 999px - $i (your value) from 0 through 999 //**
  
-// MARGIN //
+**// MARGIN //**
 
 .ml-$i to make a margin-left of $i
+
 .mr-$i to make a margin-right of $i
+
 .mt-$i to make a margin-top of $i
+
 .mb-$i to make a margin-bottom of $i
   
-// PADDING //
+**// PADDING //**
   
 .pdt-$i to make a padding-top of $i
+
 .pdb-$i to make a padding-bottom of $i
+
 .pdr-$i to make a padding-right of $i
+
 .pdl-$i to make a padding-left of $i
