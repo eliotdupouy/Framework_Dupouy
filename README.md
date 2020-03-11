@@ -7,8 +7,11 @@ Welcome to Framework_Dupouy ! This is my personal framework with easy breakpoint
 You can have a maximum of 12 columns in a row.
 
 .col-mobile-$i (max-width: 600px)
+
 .col-pad-$i (min-width: 601px and max-width: 768px)
+
 .col-desktop-$i (max-width: 1080px)
+
 .col-desktop-4k-$i (min-width: 1400px)
 
 # How to use Helper Classes ? #
